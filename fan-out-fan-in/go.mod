@@ -1,4 +1,4 @@
-module fan-out-fan-in-pattern
+module fan-out-fan-in
 
 go 1.25.1
 

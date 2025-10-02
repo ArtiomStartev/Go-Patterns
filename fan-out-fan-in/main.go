@@ -1,7 +1,7 @@
 package main
 
 import (
-	"fan-out-fan-in-pattern/image_processing"
+	"fan-out-fan-in/image_processing"
 	"image"
 	"runtime"
 	"strings"
